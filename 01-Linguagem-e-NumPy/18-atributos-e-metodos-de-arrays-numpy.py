@@ -31,7 +31,6 @@ print(contador.reshape(5, 2)) # order = 'C'
 print(contador.reshape((5, 2), order = 'F'))
 
 # Altera a forma e o tamanho do array
-print('teste:')
 dados_new = dados.copy()
 dados_new = np.resize(dados_new, (3, 5))
 print(dados_new)
