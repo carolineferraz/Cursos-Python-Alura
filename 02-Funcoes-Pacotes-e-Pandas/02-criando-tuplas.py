@@ -16,7 +16,7 @@ print(Carro)
 
 # utilizando tuple() ou tuple(iterator)
 ['Jetta Variant', 'Passat', 'Crossfox', 'DSS']
-nomes_carros = tuple(['Jetta Variant', 'Passat', 'Crossfox', 'DSS'])
+nomes_carros = tuple(['Jetta Variant', 'Passat', 'Crossfox', 'DS5'])
 print(nomes_carros)
 
 print(type(nomes_carros))

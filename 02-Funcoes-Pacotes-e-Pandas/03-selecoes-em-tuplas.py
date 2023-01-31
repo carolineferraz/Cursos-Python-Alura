@@ -1,4 +1,4 @@
-nomes_carros = ('Jetta Variant', 'Passat', 'Crossfox', 'DSS')
+nomes_carros = ('Jetta Variant', 'Passat', 'Crossfox', 'DS5')
 
 print(nomes_carros[0])
 print(nomes_carros[1])
